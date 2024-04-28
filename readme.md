@@ -1,5 +1,7 @@
 **Portfolio Website**
 
+**Built with: JavaScript, HTML, TailwindCSS**
+
 **Live link:**
 
 https://portfolio-adrians90.vercel.app/
