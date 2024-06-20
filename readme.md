@@ -1,4 +1,4 @@
-**Portfolio Website**
+**First attempt at a Portfolio Website**
 
 **Built with: JavaScript, HTML, TailwindCSS**
 
